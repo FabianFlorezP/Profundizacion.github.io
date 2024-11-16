@@ -45,11 +45,6 @@ Contiene información de derechos de autor.
 - **CSS3**: Para los estilos y diseño de la página.
 - **JavaScript**: Para la interactividad básica de la página.
 
-## Próximos Pasos
-
-- Añadir funcionalidad para el carrito de compras.
-- Integrar un sistema de backend para la gestión de productos.
-- Implementar un formulario de contacto funcional.
 
 ## Autor
 
