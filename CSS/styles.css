@@ -44,3 +44,9 @@ footer {
     background-color: #CD9C8A;
     color: #fff;
 }
+.logo {
+    width: 100px; /* Ajusta el tamaño según tus necesidades */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centrar el logo */
+}
