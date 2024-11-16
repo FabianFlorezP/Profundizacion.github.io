@@ -50,3 +50,12 @@ footer {
     display: block;
     margin: 0 auto; /* Centrar el logo */
 }
+.video-section {
+    display: flex;
+    justify-content: flex-start; /* Para alinear el video a la izquierda */
+    margin: 20px;
+}
+
+.video-section iframe {
+    border-radius: 8px; /* Opcional: añade esquinas redondeadas */
+}
