@@ -7,7 +7,15 @@ Sección de productos de ropa y zapatos con imágenes y descripciones
 Estilos personalizados aplicados mediante CSS
 Interactividad básica implementada con JavaScript
 Estructura del Proyecto
-El proyecto está compuesto por los siguientes archivos y carpetas: /proyecto-venta-ropa │ ├── index.html # Página principal del proyecto ├── js/ # Archivo de JavaScript con interactividad ├── CSS/ │ └── styles.css # Archivo de estilos CSS
+
+El proyecto está compuesto por los siguientes archivos y carpetas: 
+
+/proyecto-venta-ropa 
+│ 
+├── index.html # Página principal del proyecto 
+├── js/ # Archivo de JavaScript con interactividad 
+├── CSS/ 
+│  └── styles.css # Archivo de estilos CSS
 
 Cómo Ejecutar el Proyecto
 Clona el repositorio o descarga los archivos en tu computadora.
@@ -33,48 +41,3 @@ JavaScript: Para la interactividad básica de la página.
 Autor
 Fabian Florez
 Desarrollador de software y estudiante de Ingeniería de Software.
-
-About
-Profundizacion
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-HTML
-74.8%
- 
-CSS
-22.2%
- 
-JavaScript
-3.0%
-Suggested workflows
-Based on your tech stack
-Jekyll using Docker image logo
-Jekyll using Docker image
-Package a Jekyll site using the jekyll/builder Docker image.
-Gulp logo
-Gulp
-Build a NodeJS project with npm and gulp.
-SLSA Generic generator logo
-SLSA Generic generator
-Generate SLSA3 provenance for your existing release workflows
-More workflows
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
